@@ -1,11 +1,21 @@
 ## Mozilla Mission
+Our mission is to promote openness, innovation & opportunity on the Web.
+[Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+
 ## FxOS Mission
+ * Unleash the power of mobile on the web
+ * Bring the power of the web to mobile
+ * Privacy and Openness first
+ * Devices by the users, for the users
+
 ## Timeline
+ * can we build it?
+ * who is it for?
  * ...the next billion
  * ultra low end
  * for us, by us (Ignite)
 
-## Ignite
+## Where we are, Ignite
  * Nice hardware already existing
  * Customizable (Add-ons, themes, hacker apps)
  * Foxfooding
