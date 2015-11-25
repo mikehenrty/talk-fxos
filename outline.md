@@ -1,5 +1,6 @@
 ## Who am I?
 Michael Henretty
+Engineer for Firefox OS. NOT A PUBLIC SPEAKER :)
  * https://twitter.com/mikehenrty
  * https://github.com/mikehenrty
 
@@ -26,6 +27,7 @@ Our mission is to promote openness, innovation & opportunity on the Web.
  * Foxfooding
 
 ## Community
+ * Participation Hub
  * Porting
  * Foxfooding
  * hacking
