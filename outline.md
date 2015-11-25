@@ -5,8 +5,7 @@ Engineer for Firefox OS. NOT A PUBLIC SPEAKER :)
  * https://github.com/mikehenrty
 
 ## Mozilla Mission
-Our mission is to promote openness, innovation & opportunity on the Web.
-[Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+Our mission is to promote openness, innovation & opportunity on the Web. [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
 
 ## FxOS Mission
  * Unleash the power of mobile on the web
