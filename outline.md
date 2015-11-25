@@ -1,3 +1,8 @@
+## Who am I?
+Michael Henretty
+ * https://twitter.com/mikehenrty
+ * https://github.com/mikehenrty
+
 ## Mozilla Mission
 Our mission is to promote openness, innovation & opportunity on the Web.
 [Mozilla Manifesto](https://www.mozilla.org/en-US/about/manifesto/)
