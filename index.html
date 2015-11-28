@@ -46,6 +46,7 @@
     }
     .reveal .slides a {
       font-size: 35px;
+      animation: blinker 4s linear infinite;
     }
     .reveal .slides section.underlay {
       background-color: rgba(0, 0, 0, 0.8);
@@ -56,6 +57,12 @@
     }
     .reveal .slides ul ul {
       list-style: inside;
+    }
+    .blink_me {
+    }
+
+    @keyframes blinker {
+        50% { color: white; }
     }
     </style>
   </head>
@@ -74,8 +81,8 @@
           <img src="img/me.jpg" />
           <p>My name is Michael Henretty</p>
           <p>Engineer for Firefox OS (not public speaker)</p>
-          <a href="https://twitter.com/mikehenrty">https://twitter.com/mikehenrty</a><br />
-          <a href="https://github.com/mikehenrty">https://github.com/mikehenrty</a><br />
+          <a href="https://twitter.com/mikehenrty">twitter.com/mikehenrty</a><br />
+          <a href="https://github.com/mikehenrty">github.com/mikehenrty</a><br />
           <a href="mailto:mikey@mozilla.com">mikey@mozilla.com</a>
         </section>
 
@@ -146,7 +153,7 @@
           <h2>The Mozilla Mission</h2>
           <img src="img/dino.png" />
           <blockquote>Our mission is to promote openness, innovation &amp; opportunity on the Web.</blockquote>
-          <p><a href="https://www.mozilla.org/en-US/about/manifesto/">mozilla.org/about/manifesto/</a></p>
+          <p><a style="animation: none" href="https://www.mozilla.org/en-US/about/manifesto/">mozilla.org/about/manifesto/</a></p>
         </section>
 
         <section data-background="#0095DD">
@@ -248,7 +255,7 @@
           <img style="max-height: 180px" src="img/sapling.jpg" />
           <ul>
             <li>Participation Hub: <a href="https://firefoxos.mozilla.community/">firefoxos.mozilla.community</a></li>
-            <li>Porting</li>
+            <li>Porting Parties</li>
             <li>Foxfooding</li>
             <li>Hacking (Gaia Core, Add-ons)</li>
             <li>Internet of Things</li>
@@ -287,8 +294,8 @@
         <section data-background="img/giphy.gif">
           <h1>That's all I have to say</h1>
           <h2>Questions?</h2>
-          <a href="https://twitter.com/mikehenrty">https://twitter.com/mikehenrty</a><br />
-          <a href="https://github.com/mikehenrty">https://github.com/mikehenrty</a><br />
+          <a href="https://twitter.com/mikehenrty">twitter.com/mikehenrty</a><br />
+          <a href="https://github.com/mikehenrty">github.com/mikehenrty</a><br />
           <a href="mailto:mikey@mozilla.com">mikey@mozilla.com</a>
         </section>
 
